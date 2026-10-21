@@ -1,0 +1,6 @@
+{
+  "name": "দূর্গা পূজা ফ্রি ইন্টারনেট অফার - Durga Puja Data Promo",
+  "description": "শারদীয়া দূর্গা পূজা উৎসব উপলক্ষে সকল মোবাইল অপারেটরের জন্য বিশেষ ডেটা অফার ও প্রচারমূলক পোর্টাল।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
